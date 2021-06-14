@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.js": "/e-kart/static/js/main.763e8011.chunk.js",
+    "main.js.map": "/e-kart/static/js/main.763e8011.chunk.js.map",
+    "runtime-main.js": "/e-kart/static/js/runtime-main.6887b15e.js",
+    "runtime-main.js.map": "/e-kart/static/js/runtime-main.6887b15e.js.map",
+    "static/css/2.13fd37b7.chunk.css": "/e-kart/static/css/2.13fd37b7.chunk.css",
+    "static/js/2.c2b2315d.chunk.js": "/e-kart/static/js/2.c2b2315d.chunk.js",
+    "static/js/2.c2b2315d.chunk.js.map": "/e-kart/static/js/2.c2b2315d.chunk.js.map",
+    "index.html": "/e-kart/index.html",
+    "static/css/2.13fd37b7.chunk.css.map": "/e-kart/static/css/2.13fd37b7.chunk.css.map",
+    "static/js/2.c2b2315d.chunk.js.LICENSE.txt": "/e-kart/static/js/2.c2b2315d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6887b15e.js",
+    "static/css/2.13fd37b7.chunk.css",
+    "static/js/2.c2b2315d.chunk.js",
+    "static/js/main.763e8011.chunk.js"
+  ]
+}
